@@ -49,7 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add --force context/analytics/*.csv
+          git add --force context/analytics/*.csv 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "変更なし。コミットをスキップします。"
           else
