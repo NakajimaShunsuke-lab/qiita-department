@@ -1,0 +1,10 @@
+{
+  "name": "qiita-agent-teams",
+  "version": "1.0.0",
+  "description": "編集部 Qiita部門 — AIエージェントチームによるQiita記事制作",
+  "private": true,
+  "scripts": {
+    "sync-notion": "node scripts/sync-notion.js",
+    "sync-notion:update": "node scripts/sync-notion.js --update"
+  }
+}
