@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "編集部 Qiita部門 — AIエージェントチームによるQiita記事制作",
   "private": true,
+  "type": "module",
   "scripts": {
-    "sync-notion": "node scripts/sync-notion.js",
-    "sync-notion:update": "node scripts/sync-notion.js --update"
+    "fetch-analytics": "node scripts/fetch-ga-analytics.mjs",
+    "fetch-analytics:weekly": "node scripts/fetch-ga-analytics.mjs --days 7",
+    "sync-notion": "node scripts/sync-notion.cjs",
+    "sync-notion:update": "node scripts/sync-notion.cjs --update"
   },
   "dependencies": {
-    "@notionhq/client": "^5.16.0"
+    "@google-analytics/data": "^4.8.0",
+    "@notionhq/client": "^5.16.0",
+    "dotenv": "^16.4.0"
   }
 }
