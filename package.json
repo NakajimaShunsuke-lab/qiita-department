@@ -6,5 +6,8 @@
   "scripts": {
     "sync-notion": "node scripts/sync-notion.js",
     "sync-notion:update": "node scripts/sync-notion.js --update"
+  },
+  "dependencies": {
+    "@notionhq/client": "^5.16.0"
   }
 }
