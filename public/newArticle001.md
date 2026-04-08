@@ -1,14 +1,14 @@
 ---
-title: 'Claude Code Agent Teams実践ガイド — 3つのワークフローパターンで開発を並列化する'
+title: Claude Code Agent Teams実践ガイド — 3つのワークフローパターンで開発を並列化する
 tags:
-  - 'ClaudeCode'
-  - 'AI'
-  - 'AIエージェント'
-  - 'マルチエージェント'
-  - '開発効率化'
+  - AI
+  - 開発効率化
+  - AIエージェント
+  - マルチエージェント
+  - ClaudeCode
 private: true
-updated_at: ''
-id: null
+updated_at: '2026-04-08T18:18:36+09:00'
+id: 975158be267933d8e73d
 organization_url_name: null
 slide: false
 ignorePublish: false
