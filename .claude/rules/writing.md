@@ -12,7 +12,7 @@ paths: ["public/**/*.md"]
 ## フロントマター
 - Qiita CLI形式のフロントマターを必ず含める
 - タグは最大5つ、Qiita既存タグを優先
-- 初稿は `private: true` で作成
+- `private: false` で作成（pushと同時に公開）
 
 ## 記事構成
 - H1は使用しない（Qiitaではタイトルが H1 扱い）

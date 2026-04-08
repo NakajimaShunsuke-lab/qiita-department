@@ -25,7 +25,7 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 1. **記事ファイルの作成**
    - プロジェクトルートで `npx qiita new {slug}` を実行して記事ファイルを作成する
    - 作成されたファイルは `.templates/article.md` と同じフォーマットで生成される
-   - フロントマターの `title` にタイトルを設定し、`tags` にタグを設定し、`private: true` に変更する
+   - フロントマターの `title` にタイトルを設定し、`tags` にタグを設定する（`private: false` のまま）
 
 2. **導入セクション**
    - この記事で何がわかるかを簡潔に記載
@@ -49,7 +49,7 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 ### Step 4: 記事ファイルの保存
 
 1. Step 3で `npx qiita new` により `public/` に生成済みのファイルに執筆内容を書き込む
-2. `private: true` であることを最終確認する
+2. `private: false` であることを最終確認する
 
 ## 執筆ルール
 

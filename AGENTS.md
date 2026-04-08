@@ -18,11 +18,11 @@
         ↓ 自動
 /qiita-director：情報収集・構成案作成・タグ選定 → briefs/
         ↓ 自動
-/qiita-write：Markdown執筆 → public/（private: true）
+/qiita-write：Markdown執筆 → public/（private: false）
         ↓ 自動
 /qiita-review：品質管理・テクニカルチェック（不合格→自動差し戻し→再執筆、最大3回）
         ↓ 自動
-/qiita-ops：公開前チェック → private: false → publish
+/qiita-ops：公開前チェック → publish
         ↓ 自動
 /qiita-report：レポート作成 → context/report/ → Notion同期
 

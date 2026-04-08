@@ -36,7 +36,7 @@ title: '記事タイトル'
 tags:
   - 'タグ名1'
   - 'タグ名2'
-private: true
+private: false
 updated_at: ''
 id: null
 organization_url_name: null
@@ -46,7 +46,7 @@ ignorePublish: false
 ```
 
 - タグは最大5つ。Qiitaに既存のタグを優先的に使用する
-- 初稿は必ず `private: true` で作成する
+- 初稿は `private: false` で作成する（pushと同時に公開される）
 
 ### Markdown記法
 
