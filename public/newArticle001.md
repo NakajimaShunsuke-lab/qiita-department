@@ -245,6 +245,6 @@ Agent Teamsのトークン消費は **チーム人数に比例** して増加し
 
 ### 関連リソース
 
-- [Agent Teams公式ドキュメント](https://code.claude.com/docs/en/agent-teams)
-- [サブエージェント公式ドキュメント](https://code.claude.com/docs/en/sub-agents)
-- [Hooks公式ドキュメント](https://code.claude.com/docs/en/hooks)
+- [Agent Teams公式ドキュメント](https://docs.anthropic.com/en/docs/claude-code/agent-teams)
+- [サブエージェント公式ドキュメント](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+- [Hooks公式ドキュメント](https://docs.anthropic.com/en/docs/claude-code/hooks)
