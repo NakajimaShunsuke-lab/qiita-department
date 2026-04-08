@@ -1,6 +1,6 @@
 ---
 description: Qiita記事の執筆時に適用されるガイドラインルール
-paths: ["qiita-repo/public/**/*.md"]
+paths: ["public/**/*.md"]
 ---
 
 # Qiita記事 執筆ルール

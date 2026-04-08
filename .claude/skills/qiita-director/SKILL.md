@@ -85,7 +85,7 @@ description: リサーチャーAI — 企画・情報収集・構成案作成
 
 ### Step 5: 企画書の保存
 
-1. 企画書を `qiita-repo/briefs/{テーマ名のスラッグ}.md` に保存する
+1. 企画書を `briefs/{テーマ名のスラッグ}.md` に保存する
 2. ファイル名は英数字・ハイフンで構成する（例: `claude-code-tips.md`）
 
 ## 構成案作成のルール
@@ -103,8 +103,8 @@ description: リサーチャーAI — 企画・情報収集・構成案作成
 - ナレッジ: `context/knowledge/`
 - 過去レポート: `context/report/`
 - トレンドレポート: `context/report/trend_*.md`
-- 既存記事: `qiita-repo/public/`
-- 既存企画書: `qiita-repo/briefs/`
+- 既存記事: `public/`
+- 既存企画書: `briefs/`
 
 ## 注意事項
 

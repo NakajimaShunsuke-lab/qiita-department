@@ -1,6 +1,6 @@
 ---
 description: Qiita記事のレビュー時に適用されるチェックルール
-paths: ["qiita-repo/public/**/*.md", "qiita-repo/briefs/**/*.md"]
+paths: ["public/**/*.md", "briefs/**/*.md"]
 ---
 
 # Qiita記事 レビュールール

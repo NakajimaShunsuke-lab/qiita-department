@@ -12,7 +12,7 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 
 ### Step 1: 構成案の読み込み
 
-1. 引数で指定された企画書、または `qiita-repo/briefs/` の最新企画書を読み込む
+1. 引数で指定された企画書、または `briefs/` の最新企画書を読み込む
 2. テーマ・ターゲット・見出し構成・サンプルコード要件・推奨タグを確認する
 
 ### Step 2: ガイドラインの確認
@@ -62,7 +62,7 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 
 ### Step 4: 記事ファイルの保存
 
-1. 記事を `qiita-repo/public/{slug}.md` に保存する
+1. 記事を `public/{slug}.md` に保存する
 2. slug はテーマを表す英数字・ハイフンの文字列とする
 3. `private: true` であることを確認する
 
@@ -78,10 +78,10 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 ## 参照先
 
 - ガイドライン: `CONTRIBUTING_QIITA.md`
-- 企画書: `qiita-repo/briefs/`
+- 企画書: `briefs/`
 - ナレッジ: `context/knowledge/`
 - 過去レポート: `context/report/`
-- 記事テンプレート: `qiita-repo/.templates/`
+- 記事テンプレート: `.templates/`
 
 ## 注意事項
 

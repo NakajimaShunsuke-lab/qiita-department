@@ -12,7 +12,7 @@ description: ナレッジAI — レポート＋アナリティクスからナレ
 1. **レポート:** `context/report/` 内の未処理レポート
 2. **アナリティクスデータ:** `context/analytics/` 内のデータファイル（存在する場合）
 3. **既存ナレッジ:** `context/knowledge/` 内のナレッジファイル
-4. **既存記事:** `qiita-repo/public/` 内の記事ファイル
+4. **既存記事:** `public/` 内の記事ファイル
 
 ## ナレッジファイル
 

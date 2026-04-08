@@ -12,8 +12,8 @@ description: レビュアー・校正AI — 品質管理・テクニカルチェ
 
 ### Step 1: 記事の読み込み
 
-1. 引数で指定された記事、または `qiita-repo/public/` の最新記事を読み込む
-2. 対応する企画書を `qiita-repo/briefs/` から読み込む（存在する場合）
+1. 引数で指定された記事、または `public/` の最新記事を読み込む
+2. 対応する企画書を `briefs/` から読み込む（存在する場合）
 
 ### Step 2: ガイドライン準拠チェック
 
@@ -108,7 +108,7 @@ description: レビュアー・校正AI — 品質管理・テクニカルチェ
 ## 参照先
 
 - ガイドライン: `CONTRIBUTING_QIITA.md`
-- 企画書: `qiita-repo/briefs/`
+- 企画書: `briefs/`
 - ナレッジ: `context/knowledge/`
 - 過去レポート: `context/report/`
 

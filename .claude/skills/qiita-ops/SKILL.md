@@ -12,8 +12,8 @@ description: 公開オペレーション — 公開前チェック
 
 ### Step 1: 対象記事の特定
 
-1. 引数で指定された記事、または `qiita-repo/public/` 内で `private: true` の最新記事を特定する
-2. 対応する企画書（`qiita-repo/briefs/`）があれば読み込む
+1. 引数で指定された記事、または `public/` 内で `private: true` の最新記事を特定する
+2. 対応する企画書（`briefs/`）があれば読み込む
 
 ### Step 2: 公開前チェックリスト
 
@@ -78,8 +78,8 @@ description: 公開オペレーション — 公開前チェック
 ## 参照先
 
 - ガイドライン: `CONTRIBUTING_QIITA.md`
-- 記事ファイル: `qiita-repo/public/`
-- 企画書: `qiita-repo/briefs/`
+- 記事ファイル: `public/`
+- 企画書: `briefs/`
 
 ## 注意事項
 

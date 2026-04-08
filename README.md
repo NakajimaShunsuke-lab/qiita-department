@@ -35,10 +35,9 @@ Qiita/
 │   ├── settings.json          # ツール権限設定
 │   ├── rules/                 # コンテキストルール（自動適用）
 │   └── skills/                # スラッシュコマンド（スキル）
-├── qiita-repo/
-│   ├── public/                # 記事ファイル（Qiita CLI標準）
-│   ├── briefs/                # 企画書
-│   └── .templates/            # テンプレート
+├── public/                    # 記事ファイル（Qiita CLI標準）
+├── briefs/                    # 企画書
+├── .templates/                # テンプレート
 ├── context/
 │   ├── report/                # 作業レポート（未処理）
 │   ├── analytics/             # アナリティクスデータ
@@ -67,7 +66,7 @@ Qiita/
 npm install
 
 # Qiita CLIの初期化（初回のみ）
-cd qiita-repo && npx qiita init
+npx qiita init
 ```
 
 ### 記事作成（一括実行）
