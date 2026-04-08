@@ -25,8 +25,6 @@
 /qiita-ops：公開前チェック → private: false → publish
         ↓ 自動
 /qiita-report：レポート作成 → context/report/ → Notion同期
-        ↓ 自動
-/qiita-knowledge：ナレッジ更新 → context/knowledge/
 
 【一括実行: /qiita-full（全フェーズ自動実行）】
 ```

@@ -27,8 +27,8 @@ Qiita技術記事の執筆における共通ルールを定義します。全エ
 ---
 title: '記事タイトル'
 tags:
-  - name: 'タグ名1'
-  - name: 'タグ名2'
+  - 'タグ名1'
+  - 'タグ名2'
 private: true
 updated_at: ''
 id: null

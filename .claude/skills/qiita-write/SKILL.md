@@ -22,24 +22,10 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 
 ### Step 3: 記事の執筆
 
-1. **フロントマターの作成**
-   ```yaml
-   ---
-   title: '{記事タイトル}'
-   tags:
-     - name: '{タグ1}'
-     - name: '{タグ2}'
-     - name: '{タグ3}'
-     - name: '{タグ4}'
-     - name: '{タグ5}'
-   private: true
-   updated_at: ''
-   id: null
-   organization_url_name: null
-   slide: false
-   ignorePublish: false
-   ---
-   ```
+1. **記事ファイルの作成**
+   - プロジェクトルートで `npx qiita new {slug}` を実行して記事ファイルを作成する
+   - 作成されたファイルは `.templates/article.md` と同じフォーマットで生成される
+   - フロントマターの `title` にタイトルを設定し、`tags` にタグを設定し、`private: true` に変更する
 
 2. **導入セクション**
    - この記事で何がわかるかを簡潔に記載
@@ -62,9 +48,8 @@ description: ライターAI — Markdown執筆・サンプルコード作成
 
 ### Step 4: 記事ファイルの保存
 
-1. 記事を `public/{slug}.md` に保存する
-2. slug はテーマを表す英数字・ハイフンの文字列とする
-3. `private: true` であることを確認する
+1. Step 3で `npx qiita new` により `public/` に生成済みのファイルに執筆内容を書き込む
+2. `private: true` であることを最終確認する
 
 ## 執筆ルール
 
