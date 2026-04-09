@@ -1,14 +1,14 @@
 ---
-title: 'AIコーディングツール徹底比較2026 — Claude Code・Codex・GitHub Copilot、現場で使って分かった選び方'
+title: AIコーディングツール徹底比較2026 — Claude Code・Codex・GitHub Copilot、現場で使って分かった選び方
 tags:
-  - 'AI'
-  - 'ClaudeCode'
-  - 'GitHubCopilot'
-  - 'AI駆動開発'
-  - 'codex'
+  - AI
+  - codex
+  - GitHubCopilot
+  - AI駆動開発
+  - ClaudeCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-09T15:50:45+09:00'
+id: 624e35eb77bca83c1f0f
 organization_url_name: null
 slide: false
 ignorePublish: false
