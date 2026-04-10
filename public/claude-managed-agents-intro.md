@@ -1,14 +1,14 @@
 ---
-title: 'Claude Managed Agents入門 — 3つのAPIコールでAIエージェントを本番デプロイする'
+title: Claude Managed Agents入門 — 3つのAPIコールでAIエージェントを本番デプロイする
 tags:
-  - 'AI'
-  - 'ClaudeCode'
-  - 'AIエージェント'
-  - 'Python'
-  - '生成AI'
+  - Python
+  - AI
+  - 生成AI
+  - AIエージェント
+  - ClaudeCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-10T18:46:14+09:00'
+id: 90aa15d05c9936b661cb
 organization_url_name: null
 slide: false
 ignorePublish: false
