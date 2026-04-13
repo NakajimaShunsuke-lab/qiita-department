@@ -1,14 +1,14 @@
 ---
-title: '実務で使えるMCPサーバー入門 — FastMCP 3.xでSlack通知ツールを30分で作る【2026年最新】'
+title: 実務で使えるMCPサーバー入門 — FastMCP 3.xでSlack通知ツールを30分で作る【2026年最新】
 tags:
-  - 'MCP'
-  - 'Python'
-  - 'AI'
-  - 'ClaudeCode'
-  - '生成AI'
+  - Python
+  - AI
+  - MCP
+  - 生成AI
+  - ClaudeCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-13T16:24:15+09:00'
+id: 47cd7157ceffd4e49998
 organization_url_name: null
 slide: false
 ignorePublish: false
