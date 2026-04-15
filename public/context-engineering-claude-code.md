@@ -1,14 +1,14 @@
 ---
 title: Claude Codeで実践するコンテキストエンジニアリング — 成果が変わる5つの設計パターン
 tags:
-  - ClaudeCode
   - AI
-  - コンテキストエンジニアリング
   - 生成AI
   - AIエージェント
+  - ClaudeCode
+  - コンテキストエンジニアリング
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-15T13:42:51+09:00'
+id: baf510dc02ffe9537b3a
 organization_url_name: null
 slide: false
 ignorePublish: false
