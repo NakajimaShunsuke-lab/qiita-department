@@ -1,14 +1,16 @@
 ---
-title: AIエージェントフレームワーク徹底比較2026 — Mastra・LangGraph・OpenAI Agents SDK・Claude Agent SDK、現場で使って分かった選び方
+title: >-
+  AIエージェントフレームワーク徹底比較2026 — Mastra・LangGraph・OpenAI Agents SDK・Claude Agent
+  SDK、現場で使って分かった選び方
 tags:
-  - AI
-  - AIエージェント
-  - TypeScript
   - Python
+  - TypeScript
+  - AI
   - 生成AI
+  - AIエージェント
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-16T23:28:44+09:00'
+id: 6e64d3b6acf322bb47d2
 organization_url_name: null
 slide: false
 ignorePublish: false
