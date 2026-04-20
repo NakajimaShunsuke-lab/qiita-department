@@ -1,14 +1,14 @@
 ---
-title: 'Claude Code Skills実践入門 — 業務ワークフローをAIに移植する5つの設計パターン'
+title: Claude Code Skills実践入門 — 業務ワークフローをAIに移植する5つの設計パターン
 tags:
-  - ClaudeCode
   - AI
   - 生成AI
-  - AIエージェント
   - AI駆動開発
+  - AIエージェント
+  - ClaudeCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-20T21:08:52+09:00'
+id: de756cf6176b28931312
 organization_url_name: null
 slide: false
 ignorePublish: false
